@@ -36,7 +36,6 @@ export default function Product() {
           </fragment>
         );
       })}
-      {}
       <StyledLink href="/">Back to all</StyledLink>
     </ProductCard>
   );
